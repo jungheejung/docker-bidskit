@@ -1,6 +1,6 @@
 # BIDSKIT 2019.12.20
 # MAINTAINER: jmt@caltech.edu
-
+# UTILIZED BY: heejung.jung.gr@dartmouth.edu
 # Install Ubuntu 18.04 LTS Bionic Beaver
 FROM ubuntu:bionic
 
