@@ -1,7 +1,6 @@
-Bootstrap: library
-From: ubuntu:18.04
-
-Stage: build
+Bootstrap:docker
+From:ubuntu:18.04
+Stage:build
 
 # BIDSKIT 2020.03.02
 # ORIGINAL DOCKER IMAGE FROM: jmt@caltech.edu
